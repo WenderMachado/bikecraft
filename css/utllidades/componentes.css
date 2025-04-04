@@ -19,6 +19,14 @@
   font-family: 'Poppins';
   font-weight: 600;
   margin-bottom: 2rem;
+  max-width: max-content;
+}
+.btn.sec{
+  background: var(--cor-10);
+  color: var(--cor-2);
+}
+.btn.sec:hover{
+  background: var(--cor-9);
 }
 
 .btn:hover{
