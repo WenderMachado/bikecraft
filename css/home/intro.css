@@ -13,7 +13,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0rem 4rem;
-  max-width: 120rem;
   align-items: center;
   justify-content: center;
   margin: 0 auto;
@@ -33,14 +32,6 @@
   max-width: 40ch;
 }
 
-@media(max-width: 120rem){
-  .introducao h1{
-    font-size: 4.8rem;
-  }
-  .introducao p{
-    font-size: 1.8rem;
-  }
-}
 
 @media(max-width: 80rem){
   .introducao-bg{
@@ -56,7 +47,6 @@
     padding-bottom: 0;
   }
   .introducao h1{
-    font-size: 3.2rem;
     margin-bottom: 1.6rem;
   }
   .introducao img{

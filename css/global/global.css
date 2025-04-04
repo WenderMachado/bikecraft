@@ -11,6 +11,11 @@ a{
 img{
   max-width: 100%;
   display: block;
+
+}
+img[src$=".jpeg"],
+img[src$=".jpg"] {
+  border-radius: 4px;
 }
 html{
   font-size: 62.5%;
