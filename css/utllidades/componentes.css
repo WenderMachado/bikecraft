@@ -28,7 +28,23 @@
 .btn.sec:hover{
   background: var(--cor-9);
 }
+.btn.seta{
+  display: flex;
+  align-items: center;
+}
+.btn.seta::after{
+  content: "";
+  display: inline-block;
+  width: 1.8rem;
+  height: 1rem;
+  margin-left: 1.2rem;
+  background: url("../../uploads/img/icons/seta.svg") ;
+  transition: transform 0.2s;
+}
 
+.btn.seta:hover::after{
+  transform: translateX(4px);
+}
 .btn:hover{
   background: linear-gradient(#ffb60d, #e59317);
 }
