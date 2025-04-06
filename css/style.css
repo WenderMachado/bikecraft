@@ -22,5 +22,6 @@
 
 
 /* Bicicletas */
-@import "/css/bicilcletas/bicicletas-lista.css";
-@import "/css/bicilcletas/bicicletas.css";
+@import "/css/bicilcleta/bicicletas-lista.css";
+@import "/css/bicilcleta/bicicletas.css";
+@import "/bicicletas/bike.css";
