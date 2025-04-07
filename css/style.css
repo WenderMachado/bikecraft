@@ -13,6 +13,7 @@
 @import "/css/utllidades/tipografia.css";
 @import "/css/utllidades/componentes.css";
 @import "/css/utllidades/cores.css";
+@import "/css/utllidades/formulario.css";
 
 /* Seguros */
 
@@ -26,3 +27,7 @@
 @import "/css/bicilcleta/bicicletas.css";
 @import "/css/bicilcleta/seguro.css";
 @import "/bicicletas/bike.css";
+
+/* Contatos */
+@import "/css/contato/contato.css";
+@import "/css/contato/lojas.css";
