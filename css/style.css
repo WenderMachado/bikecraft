@@ -14,6 +14,7 @@
 @import "/css/utllidades/componentes.css";
 @import "/css/utllidades/cores.css";
 @import "/css/utllidades/formulario.css";
+@import "/css/utllidades/animacao.css";
 
 /* Seguros */
 
@@ -34,3 +35,5 @@
 
 /* orçamentos */
 @import "/css/orcamento/orcamento.css";
+
+/* animacaos */
